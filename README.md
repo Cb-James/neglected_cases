@@ -3,10 +3,10 @@ Search for cases that have been update-bumped or otherwise neglected in the Desk
 
 To run:
 
-From a terminal, run git clone https://github.com/Cb-James/neglected_cases.git
-install the Desk gem: gem install desk
-run `chmod +x neglected_cases`
-then run `./neglected_cases`
+- From a terminal, run `git clone https://github.com/Cb-James/neglected_cases.git`
+- install the Desk gem: `gem install desk`
+- Make the file executable: `chmod +x neglected_cases`
+- Then run it: `./neglected_cases`
 
 The following environment variables need to be set for this to work:
 DESK_KEY
