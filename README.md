@@ -9,10 +9,10 @@ To run:
 - Then run it: `./neglected_cases`
 
 The following environment variables need to be set for this to work:
-DESK_KEY
-DESK_SECRET
-DESK_TOKEN
-DESK_TOKEN_SECRET
-DESK_EMAIL
-DESK_SUBDOMAIN
-DESK_INBOX_ID
+- DESK_KEY
+- DESK_SECRET
+- DESK_TOKEN
+- DESK_TOKEN_SECRET
+- DESK_EMAIL
+- DESK_SUBDOMAIN
+- DESK_INBOX_ID
